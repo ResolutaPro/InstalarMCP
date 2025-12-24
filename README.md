@@ -11,6 +11,9 @@ InstalarMCP é uma ferramenta Python que permite gerenciar servidores MCP (Model
 - **Exemplos de Uso**: Fornece exemplos de integração com o ConfigManager e MCPManager.
 
 Tutorial de uso de MCP: [MCP: Porque todo mundo está falando disso + Como usar na prática](https://www.youtube.com/watch?v=fd1yJKgSOEg)
+
+[MCP Server essencial para todo programador](https://www.youtube.com/watch?v=cAMxJtz6y1o)
+
 ## 🛠️ Tech Stack
 - **Programming Language**: Python
 - **Frameworks**: Tkinter, SpecKitManager (Windows)
