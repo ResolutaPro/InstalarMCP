@@ -147,3 +147,5 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICEN
 - Include relevant badges (build status, version, license, etc.)
 - Make installation instructions copy-pasteable
 - Focus on clarity and developer experience
+
+Baseado no projeto InstalarMCP, desenvolvido por [\[VIctor\]](https://github.com/ssmvictor/InstalarMCP), disponível no GitHub. https://www.youtube.com/watch?v=d9b9ysOH79g&t=557s
