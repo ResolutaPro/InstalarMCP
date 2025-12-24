@@ -10,6 +10,7 @@ InstalarMCP é uma ferramenta Python que permite gerenciar servidores MCP (Model
 - **Scripts Auxiliares**: Inclui scripts para criar diretórios, configurar caminhos e instalar dependências.
 - **Exemplos de Uso**: Fornece exemplos de integração com o ConfigManager e MCPManager.
 
+Tutorial de uso de MCP: [MCP: Porque todo mundo está falando disso + Como usar na prática](https://www.youtube.com/watch?v=fd1yJKgSOEg)
 ## 🛠️ Tech Stack
 - **Programming Language**: Python
 - **Frameworks**: Tkinter, SpecKitManager (Windows)
